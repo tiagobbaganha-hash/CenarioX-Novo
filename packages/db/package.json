@@ -1,0 +1,11 @@
+{
+  "name": "@cenariox/db",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "build": "echo 'Database package has no build step'",
+    "migrate": "echo 'Execute via Supabase SQL editor ou CLI: supabase db push'",
+    "lint": "echo 'SQL lint pending'",
+    "test": "echo 'No tests'"
+  }
+}
